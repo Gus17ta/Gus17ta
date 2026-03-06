@@ -49,8 +49,8 @@ Focado em **React**, **React Native** e evoluindo para **Fullstack**.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gus17ta&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus17ta&layout=compact&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gus17ta&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus17ta&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </div>
 
 ---
